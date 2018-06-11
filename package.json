@@ -1,0 +1,23 @@
+{
+  "name": "node-diff-match-patch",
+  "version": "1.0.0",
+  "description": "NPM package for Google's diff-match-patch lib",
+  "main": "node-diff-match-patch.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imShara/node-diff-match-patch.git"
+  },
+  "keywords": [
+    "node",
+    "diff",
+    "match",
+    "patch",
+    "google",
+    "lib"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/imShara/node-diff-match-patch/issues"
+  },
+  "homepage": "https://github.com/imShara/node-diff-match-patch#readme"
+}
